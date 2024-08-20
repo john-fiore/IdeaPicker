@@ -10,7 +10,7 @@ As of August 19, 2024, you can only input two options, but I will eventually pro
 
 ## How to use
 1. Install [Python](https://www.python.org/downloads/) (needed)
-2. Run the program
-   a. For Windows, run launc-windows.bat
+2. Run the program\
+   a. For Windows, run launc-windows.bat\
    b. For Linux/MacOS, run launch-lin-mac.sh
 3. That's it
